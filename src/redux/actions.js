@@ -1,0 +1,10 @@
+const FETCH_FOOD_ITEMS_REQUEST = {
+    type: "FETCH_FOOD_ITEMS_REQUEST"
+}
+
+const ADD_SEL_FOOD_ITEM = {
+    type: "ADD_SEL_FOOD_ITEM",
+    payload: {}
+}
+
+export { FETCH_FOOD_ITEMS_REQUEST, ADD_SEL_FOOD_ITEM }
